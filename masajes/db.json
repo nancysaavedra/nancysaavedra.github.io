@@ -8,7 +8,7 @@
     {
         "ID": 2,
         "Codigo": "33ff778e29469c89a53f1a9243fe8d7d",
-        "Estado": "ya fue utilizado por Billie Elish en la fecha 2022/10/25 13:08",
+        "Estado": "ya fue utilizado",
         "Expira": "2023/12/31 23:59:59"
     },
     {
@@ -20,7 +20,7 @@
     {
         "ID": 4,
         "Codigo": "ba2a5a936361e77decf8612f2d266705",
-        "Estado": "Sin usar",
+        "Estado": "ya fue utilizado",
         "Expira": "2023/12/31 23:59:59"
     }
 ]
